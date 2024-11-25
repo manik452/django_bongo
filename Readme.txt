@@ -22,3 +22,6 @@ student.save()
 
 car = Car(car_name="bazaj",speed=200)
 car.save()
+
+
+pip install -r requirements.txt
